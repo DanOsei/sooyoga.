@@ -7,7 +7,157 @@
     <title> SooYoga </title>
     <link rel="stylesheet" href="style.css">
 </head>
+<script src="https://kit.fontawesome.com/14f623e5e4.js" crossorigin="anonymous"></script>
+
 <body>
+    <body>
+        <div id="header">
+            <div class="container">
+                <nav>
+                    <ul id="sidemenu">
+                        <li><a href="#header">Home</a></li>
+                        <li><a href="#about-us">About Us</a></li>
+                        <li><a href="#classes">Classes</a></li>
+                        <li><a href="#contact">Contact Us</a></li>
+                        <i class="fa-solid fa-xmark" onclick="closemenu()"></i>
+                    </ul>
+                    <i class="fa-solid fa-bars" onclick="openmenu()"></i>
+                </nav>
+                <div class="header-text">
+                    <p> Welcome to </p>
+                    <h1><u>SooYoga</u></h1>
+                    <p> When mind and body meets nature. </p>
+                </div>
+            </div>
+        </div>
+        <!-- -----------about-us-------- -->
+        <div id="about-us">
+            <div class="container">
+                <div class="row">
+                    <div class="about-col-1">
+                        <img src="images/ima1.jpg">
+                        <img src="images/outdooryoga.jpg">
+                    </div>
+                    <div class="about-col-2">
+                        <h1 class="about-text"> About Us </h1>
+                        <b>SooYoga</b> is an outdoor yoga classes, blending the safety and distance of virtual classes with
+                        the
+                        communal and energy-building nature of inperson classes. During Sooyoga classes, you can stay at
+                        a
+                        safe distance from others while practicing, free of enclosed spaces, while <b>enjoying
+                            nature</b> and an
+                        inperson connection. <br>
+                        Relaxing outdoor environments tend to make you feel better by <b>releasing endorphins</b> to the
+                        brain.
+                        Also having the added stimulation of terrain such as grass and sand only helps you feel more
+                        connected to your environment. <br>
+                        <b>We organise 3 outside sections per week</b> with our professional yoga instructors ready to
+                        help you
+                        relax your body, soul and mind outdoors with the nature. <br>
+                        Register For more information.
+                        </p>
+                        <!--------  -------Classes--------- ------------------>
+                        <div class="tab-title" id="classes">
+                            <p class="tab-links a-link" onclick="opentab('types')"><b>Types</b></p>
+                            <p class="tab-links" onclick="opentab('schedule')"><b>Schedule</b></p>
+                        </div>
+    
+                        <div class="tab-contents active-tab" id="types">
+                            <ul>
+                                <li><span><b>Vinyasa</b></span><br>The word “Vinyasa” has two parts, with Vi meaning
+                                    variation and
+                                    Nyasa meaning within prescribed limits.</li>
+                                <li><span><b> Ashtanga Yoga</b></span><br>Ashtanga yoga is a direct offshoot of sage
+                                    Patanjali’s
+                                    Yoga Sutras.</li>
+                                <li><span><b>Yin Yoga</b></span><br>Yin yoga is a mix of martial arts and yoga.</li>
+                                <li><span><b>Yang Yoga</b></span><br>Yang yoga is relatively less experimental and mixes
+                                    Hatha.
+                                    Vinyasa, and Ashtanga</li>
+                                <li><span><b>Prenatal Yoga</b></span><br>Prenatal yoga aims to reduce the discomfort and
+                                    pains
+                                    associated with pregnancy.</li>
+                                <li><span><b>Power Yoga</b></span><br>Power yoga derives its roots from ashtanga yoga.</li>
+                            </ul>
+                        </div>
+    
+                        <div class="tab-contents" id="schedule">
+                            <ul>
+                                <li><span><b>Mondays</b></span><br>Yin and Prenatal Yoga</li>
+                                <br>
+                                <li><span><b>Tuesdays</b></span><br>Vinyasa and Power Yoga</li>
+                                <br>
+                                <li><span><b>Thursdays</b></span><br>Yang and Ashtanga Yoga</li>
+                                <br>
+                                <li><span><b>Fridays</b></span><br>Ying, Yang and Power Yoga</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+         <!-- ----------- contacts-------- -->
+
+    <div id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="contact-left">
+                    <h1 class="sub-title">Contact Us</h1>
+                    <p><i class="fa-solid fa-paper-plane"></i> contactussooyoga@example.com</p>
+                    <p><i class="fa-solid fa-square-phone"></i>1234567890</p>
+                    <p><i class="fa-solid fa-location-dot"></i></i>Folkungavägen 14. Järfälla</p>
+                    <div class="social-icons">
+                        <a href="https://facebook.com/"><i class="fab fa-facebook"></i></a>
+                        <a href=""><i class="fab fa-instagram"></i></a>
+                        <a href=""><i class="fab fa-twitter"></i></a>
+                    </div>
+
+                </div>
+                <div class="contact-right">
+                    <form>
+                        <input type="text" name="Name" placeholder="Your Name" required>
+                        <input type="email" name="Email" placeholder="Your Email" required>
+                        <textarea name="Message" rows="7" placeholder="Your Message"></textarea>
+                        <button type="submit" class="btn"><b>Submit</b></button>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <div class="last-image">
+        </div>
+
+        <div class="copyright">
+            <p>Copyright © SooYoga 2022<i class="fa-sharp fa-solid fa-heart"></i></p>
+        </div>
+    </div>
+
+    <script>
+
+        var tablinks = document.getElementsByClassName("tab-links");
+        var tabcontents = document.getElementsByClassName("tab-contents");
+
+        function opentab(tabname) {
+            for (tablink of tablinks) {
+                tablink.classList.remove("a-link");
+            }
+            for (tabcontent of tabcontents) {
+                tabcontent.classList.remove("active-tab");
+            }
+            event.currentTarget.classList.add("a-link");
+            document.getElementById(tabname).classList.add("active-tab")
+        }
+    </script>
+    <script>
+        var sidemenu = document.getElementById("sidemenu")
+        function openmenu() {
+            sidemenu.style.right = "0";
+        }
+        function closemenu() {
+            sidemenu.style.right = "-200px";
+        }
+    </script>
     
 </body>
 </html>
