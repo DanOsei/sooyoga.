@@ -311,5 +311,6 @@ nav .fa-solid {
     .contact-left,
     .contact-right {
         flex-basis: 100%;
+        
     }
 }
