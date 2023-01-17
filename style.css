@@ -65,7 +65,7 @@ nav i {
     color: beige;
 }
 
-.header-text h1 {
+.header-text p u {
     font-size: 130px;
     margin-top: 20px;
     font-family: 'Courier New', Courier, monospace;
@@ -266,8 +266,8 @@ nav .fa-solid {
         font-size: 20px
     }
 
-    .header-text h1 {
-        font-size: 30px;
+    .header-text p u {
+        font-size: 40px;
     }
 
     nav .fa-solid {
