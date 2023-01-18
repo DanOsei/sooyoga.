@@ -128,3 +128,26 @@ No errors were found when passing through the official jigsaw validator.
 ### Assessability
 
 I confirm that it has been approved, the colours and fonts chosen where easy and accessible when running through lighthouse.
+
+## Deployment
+   ----
+   * This site was deployed toGitHub pages. The steps to deploy are:
+     * In the Git Hub repository, click on the settings bar.
+     * At the source section, drop down the menu and select MAIN
+      * Once you have selected MAIN, click save and then the page provides the link to the complete websites.
+      
+      This is to the link :
+       ### [SooYoga](https://danosei.github.io/sooyoga./)
+
+## Credits
+
+#### Content
+
+parts of the code to make the social media link was taken from : Coders Coffeehouse projects and Video tutorials on YouTube.
+
+The images of the heading and About Us section was taken from Google image:
+[outside yoga](https://www.google.com/search?q=outdoor+yoga&tbm=isch&ved=2ahUKEwjv8PCQ5NH8AhUkg_0HHdlPBNAQ2-cCegQIABAA&oq=outyoga&gs_lcp=CgNpbWcQARgAMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB46BAgjECc6BQgAEIAEOgQIABBDUL4hWPEmYMI8aABwAHgAgAFZiAHYApIBATSYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=6z7IY6_PO6SG9u8P2Z-RgA0&bih=852&biw=1504&rlz=1C1BYYL_svSE954SE954)
+
+## Aknowledgement:
+
+ 
