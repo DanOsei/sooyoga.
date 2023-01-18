@@ -1,8 +1,8 @@
 # First Milestone: SooYoga
 ### Project name : SooYoga
 
-The project is a yoga website dedicated to yoga lovers wanting to discover new ways, techniques and motivations to yoga, its also for new beginners wanting to try yoga and see the benefits.
-The websites is not focused on normal yoga, but mostly practising yoga in the nature outdoors and trying to stimulate our senses connecting us to our environments.
+The project is a yoga website dedicated to yoga lovers aspiring to discover new ways, techniques and motivations to yoga, its also for new beginners wanting to try yoga and see the benefits.
+The websites is not centered on normal yoga, but most importantly practising yoga in the nature outdoors and trying to stimulate our senses connecting us to our environments.
 Being outdoor yoga classes blending with virtual classes for nature energy-building, to those who find it relaxing and liberal to do yoga once in a while ask stress free practise to those who are not into yoga but curious about it.
 <img src="readme.image/Screenshot%201.png">
 
@@ -73,11 +73,11 @@ The form is to collect your name, e-mail address and a message from the user int
 
 # Future Ideas for the website:
 
-* add some free vedeo lessons for beginners to have an idea of SooYoga.
+* To add some free vedeo lessons for beginners to have an idea of SooYoga.
 
-* creates in a photo gallery with the inspiring outdoor places our yoga is practised.
+* To creates in a photo gallery with the inspiring outdoor places our yoga is practised.
 
-* Create an ecommerce database for sales activities eg. yoga gadgets, sales of books and other literatures.
+* To create an ecommerce database for sales activities eg. yoga gadgets, sales of books and other literatures.
 
 Languages:
  The project is developed using HTML5 and CSS.
@@ -143,10 +143,17 @@ I confirm that it has been approved, the colours and fonts chosen where easy and
 
 #### Content
 
-parts of the code to make the social media link was taken from : Coders Coffeehouse projects and Video tutorials on YouTube.
+parts of the code to make the social media link was taken from : Coders Coffeehouse projects and Udemy Couses.
 
 The images of the heading and About Us section was taken from Google image:
-[outside yoga](https://www.google.com/search?q=outdoor+yoga&tbm=isch&ved=2ahUKEwjv8PCQ5NH8AhUkg_0HHdlPBNAQ2-cCegQIABAA&oq=outyoga&gs_lcp=CgNpbWcQARgAMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB46BAgjECc6BQgAEIAEOgQIABBDUL4hWPEmYMI8aABwAHgAgAFZiAHYApIBATSYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=6z7IY6_PO6SG9u8P2Z-RgA0&bih=852&biw=1504&rlz=1C1BYYL_svSE954SE954)
+
+https://www.stuartmagazine.com/things-to-do/around-town-things-to-do/outdoor-yoga-at-jonathan-dickinson-state-park/
+
+https://northernvirginiamag.com/health/fitness-features/2021/04/06/5-outdoor-fitness-activities-to-join-this-weekend/
+
+https://www.refinery29.com/en-us/outdoor-yoga-nyc#slide-1
+
+https://medium.com/know-thyself-heal-thyself/the-love-hate-relationship-with-exercise-and-body-positivity-c1f2a6810ddc
 
 ## Aknowledgement:
 
