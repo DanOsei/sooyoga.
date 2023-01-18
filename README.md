@@ -24,6 +24,8 @@ Following are the User Experience target I have in mind in the process of develo
 *  Contact: Opportunity to contact our front desk and request specific or more information.
 
 # Features:
+
+<img src="readme.image/Screenshot%203.png">
 The Navigation bars is designed for easy and quick access to different sections of information which the visitor intend to know, navbars such as: Home, About us, classes and Contact Us.
 These feature bottoms will directly lead you too you're section of interest, making it easier to track.
 
@@ -31,11 +33,13 @@ These feature bottoms will directly lead you too you're section of interest, mak
 
 The homepage captures the attention of the user with the simple natural welcome logo " SooYoga ".
 The welcome logo end the navigation bar are in a beige font colour in contrast with the  background of the Home page, an eye capturing and natural relazing image welcomes the user to help body and soul in the nature.
+<img src="readme.image/Screenshot%202.png">
 
 ## About Us:
 
 This section gives all necessary information about description, method and the aim of the websites, having the types of yogas and lessons schedules in it.
 It is represented with two 50% visual image to recall the user of the experience with SooYoga, and a shot presentation of the benefits of yoga.
+<img src="readme.image/Screenshot%204.png">
 The text is in a background colour beige, not too much bright and not faded.
 The paragraph text has some bold characters to put in evidence some fundamental words.
 
@@ -43,6 +47,7 @@ The paragraph text has some bold characters to put in evidence some fundamental 
 
 The classes section gives more specific information about the types off yoga being practise and also when the lessons take place.
 The classes section is divided into two sections itself : Types and Schedules.
+<img src="readme.image/Screenshot%205.png">
 
 * Types: shows you the type of yoga practise in the so yoga classes.
 
@@ -52,12 +57,18 @@ The classes section is divided into two sections itself : Types and Schedules.
 ## Contact US:
 
 The contact section is one of the important sections for its role is to give and inform the user the various ways of contact for more information and have more visual ideas with SooYoga on the social media platforms.
+<img src="readme.image/Screenshot%206.png">
 
 The contact us section is divided in two colons: 
 * left side the user is given multiple ways to contact SooYoga for more details through , e-mail phone number or map address, includes also be low, icons links our most used social media of today Facebook, Instagram and Twitter.
 
 * right side is with a shot sign up form for who ever wants more information and to subscribe.
 The form is to collect your name, e-mail address and a message from the user interested to subscribe and join they SooYoga membership.
+<img src="readme.image/Screenshot%208.png">
+<img src="readme.image/Screenshot%209.png">
+
+## Footer
+
 
 
 # Future Ideas for the website:
