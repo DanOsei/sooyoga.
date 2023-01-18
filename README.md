@@ -111,8 +111,6 @@ I used the below command to secure my work by pushing them to the repository fil
 
 * I tested the website in other browsers such as : Firefox. Chrome, Safari and Internet Explorer.
 
-* I have controlled and I confirm that the sign in field with the name and e-mail works and would only accepts correct e-mail before submitting.
-
 * I have confirmed that's the navigation bar works perfectly well connecting directly to the sanquin section and contact us section.
 
 ### Validator Testing
