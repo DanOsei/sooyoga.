@@ -79,6 +79,8 @@ The form is to collect your name, e-mail address and a message from the user int
 
 * To create an ecommerce database for sales activities eg. yoga gadgets, sales of books and other literatures.
 
+<img src="readme.image/Screenshot%2010.png">
+
 Languages:
  The project is developed using HTML5 and CSS.
 
