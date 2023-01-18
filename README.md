@@ -4,6 +4,10 @@
 The project is a yoga website dedicated to yoga lovers wanting to discover new ways, techniques and motivations to yoga, its also for new beginners wanting to try yoga and see the benefits.
 The websites is not focused on normal yoga, but mostly practising yoga in the nature outdoors and trying to stimulate our senses connecting us to our environments.
 Being outdoor yoga classes blending with virtual classes for nature energy-building, to those who find it relaxing and liberal to do yoga once in a while ask stress free practise to those who are not into yoga but curious about it.
+![](readme.image/Screenshot%201.png)
+<img src= "sooyoga/readme.images/Screenshot1.png">
+<img src="readme.images/" alt="">
+<img src="readme.images/" alt="">
 
 ### Brief Project Method:
 
