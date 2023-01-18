@@ -31,15 +31,64 @@ These feature bottoms will directly lead you too you're section of interest, mak
 The homepage captures the attention of the user with the simple natural welcome logo " SooYoga ".
 The welcome logo end the navigation bar are in a beige font colour in contrast with the  background of the Home page, an eye capturing and natural relazing image welcomes the user to help body and soul in the nature.
 
-## About us:
+## About Us:
 
 This section gives all necessary information about description, method and the aim of the websites, having the types of yogas and lessons schedules in it.
 It is represented with two 50% visual image to recall the user of the experience with SooYoga, and a shot presentation of the benefits of yoga.
 The text is in a background colour beige, not too much bright and not faded.
 The paragraph text has some bold characters to put in evidence some fundamental words.
 
+## Classes:
 
-The Sign Up form
-The sign up section is complete with a shot sign up form for whoever wants more information and to subscribe.
+The classes section gives more specific information about the types off yoga being practise and also when the lessons take place.
+The classes section is divided into two sections itself : Types and Schedules.
 
-The form is to collect your name and e-mail address of the user interested to subscribe enter join they SooYoga membership.
+* Types: shows you the type of yoga practise in the so yoga classes.
+
+* Schedules: gives the precise days and which types of yoga will in programme for those days, does not give the information about what time and where in place the lessons would be because that information is only for users subscribed and which from this point ticks the user so the subscription/ contact us form.
+
+
+## Contact US:
+
+The contact section is one of the important sections for its role is to give and inform the user the various ways of contact for more information and have more visual ideas with SooYoga on the social media platforms.
+
+The contact us section is divided in two colons: 
+* left side the user is given multiple ways to contact SooYoga for more details through , e-mail phone number or map address, includes also be low, icons links our most used social media of today Facebook, Instagram and Twitter.
+
+* right side is with a shot sign up form for who ever wants more information and to subscribe.
+The form is to collect your name, e-mail address and a message from the user interested to subscribe and join they SooYoga membership.
+
+
+# Future Ideas for the website:
+
+* add some free vedeo lessons for beginners to have an idea of SooYoga.
+
+* creates in a photo gallery with the inspiring outdoor places our yoga is practised.
+
+* Create an ecommerce database for sales activities eg. yoga gadgets, sales of books and other literatures.
+
+Languages:
+ The project is developed using HTML5 and CSS.
+
+
+
+
+
+
+
+### Below is the step I followed to deploy my site to GitHub.
+
+I used the below command to secure my work by pushing them to the repository file that was created for the project on GitHub.
+
+• git init
+
+• git status
+
+• git add .
+
+• git commit -m "README.md commit" .
+
+• git push
+
+• git status
+
