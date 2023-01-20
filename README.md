@@ -23,6 +23,13 @@ Following are the User Experience target I have in mind in the process of develo
 
 *  Contact: Opportunity to contact our front desk and request specific or more information.
 
+| User Story     | Description                                                                                  |
+|----------------|----------------------------------------------------------------------------------------------|
+| US-001-Home    | As a User I want to access the Yoga website to learn more about what is on offer.            |
+| US-002-About   | As a User I want to access the About Us to better understand the benefits of Yoga.           |
+| US-003-Classes | As a User I want to access Yoga Classes to improve my health and well-being.                 |
+| US-004-Contact | As a User I want to Contact the Yoga instructor to enquire about classes and fitness levels. |
+
 # Features:
 
 <img src="readme.image/Screenshot%203.png">
@@ -108,6 +115,12 @@ I used the below command to secure my work by pushing them to the repository fil
 
 ## Testing
 ----
+Test Case     | Description                                                                                                               | PASS/FAIL |
+|---------------|---------------------------------------------------------------------------------------------------------------------------|-----------|
+| T-001-Home    | I navigate to the Home page:  https://danosei.github.io/sooyoga. and look at what is on offer.                            | PASS      |
+| T-002-About   | I click on the About Us navigation menu: https://danosei.github.io/sooyoga./#about-us to scroll to the about section.     | PASS      |
+| T-003-Classes | I click on the Classes navigation menu: https://danosei.github.io/sooyoga./#classes to scroll to the Classes section.     | PASS      |
+| T-004-Contact | I click on the Contact navigation menu: https://danosei.github.io/sooyoga./#contact fill in the form and click on submit. | PASS      |
 
 * I tested the website in other browsers such as : Firefox. Chrome, Safari and Internet Explorer.
 
